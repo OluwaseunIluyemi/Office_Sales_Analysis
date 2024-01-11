@@ -1,7 +1,5 @@
 # Office_Sales_Analysis
 
-
-
 This dataset includes information on employees, with variables such as division, work experience, salary, sales performance, and level of education. It allows for the exploration of relationships between these factors, offering insights into how work experience, education, and division affiliation may influence salary, sales, or overall career progression within the dataset.
 
 
